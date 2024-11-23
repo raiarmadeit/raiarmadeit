@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @raiarmadeit
-- 👀 I’m interested in lua coding
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: discord - ratedgoincrazy
-- 😄 Pronouns: him cuz im him
-- ⚡ Fun fact: I have asthma
+jus a coder i guess
 
 <!---
 raiarmadeit/raiarmadeit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
